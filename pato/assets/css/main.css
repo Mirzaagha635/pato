@@ -1,0 +1,185 @@
+header {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+  position: absolute;
+}
+header .container .navbar .container-fluid .collapse ul li .nav-link {
+  color: white;
+}
+
+#product {
+  width: 100%;
+  height: auto;
+}
+#product .boxbtn {
+  margin: 20px;
+}
+#product .boximage {
+  max-width: 100%;
+}
+#product .loadbtn {
+  background-color: aquamarine;
+  border-radius: 50px;
+  border: none;
+  padding: 5px;
+  color: red;
+  margin-bottom: 20px;
+}
+#product .boxbtn {
+  background-color: rgb(38, 185, 1);
+  border: none;
+  padding: 5px;
+  border-radius: 50px;
+}
+#product .loadbtn {
+  justify-content: end;
+}
+
+header {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+  position: absolute;
+}
+header .container .navbar .container-fluid .collapse ul li .nav-link {
+  color: white;
+}
+
+#home {
+  width: 100%;
+  height: 700px;
+  background-image: url(/assets/img/master-slides-01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: transparent;
+}
+#home .hometext {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+#home .hometext span {
+  font-size: 60px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+#home .hometext h2 {
+  font-size: 100px;
+  color: white;
+  font-weight: 900;
+}
+#home .hometext .homebutton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#home .hometext .homebutton button {
+  width: 150px;
+  height: 30px;
+  border: none;
+  color: #EC1D25;
+  border-radius: 4px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#italian {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+#italian .italiancontent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+#italian .italianimage {
+  width: 80%;
+}
+#italian .italianimage img {
+  max-width: 100%;
+}
+
+#discover {
+  width: 100%;
+  height: auto;
+  background-image: url(/assets/img/bg-intro-01.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+#discover .discovertext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#discover .discovertext p {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+}
+#discover .discovertext h3 {
+  font-size: 60px;
+  color: white;
+}
+
+#comnucation {
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#comnucation .restaurant {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+#comnucation .restaurant span a {
+  list-style: none;
+}
+
+#product {
+  width: 100%;
+  height: auto;
+}
+#product .boxbtn {
+  margin: 20px;
+}
+#product .boximage {
+  max-width: 100%;
+}
+#product .loadbtn {
+  background-color: aquamarine;
+  border-radius: 50px;
+  border: none;
+  padding: 5px;
+  color: red;
+  margin-bottom: 20px;
+}
+#product .boxbtn {
+  background-color: rgb(38, 185, 1);
+  border: none;
+  padding: 5px;
+  border-radius: 50px;
+}
+#product .loadbtn {
+  justify-content: end;
+}

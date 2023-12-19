@@ -1,0 +1,55 @@
+
+header {
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    position: absolute;
+
+    .container {
+        .navbar {
+            .container-fluid {
+                .collapse {
+
+                    ul {
+                        li {
+                            .nav-link {
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+#product {
+    width: 100%;
+    height: auto;
+    .boxbtn{
+        margin: 20px;
+    }
+
+    .boximage {
+        max-width: 100%;
+    }
+    .loadbtn{
+        background-color: aquamarine;
+        border-radius: 50px;
+        border: none;
+        padding:5px;
+        color: red;
+        margin-bottom: 20px;
+
+    }
+
+    .boxbtn {
+        background-color: rgb(38, 185, 1);
+        border: none;
+        padding: 5px;
+        border-radius: 50px;
+
+    }
+    .loadbtn{
+        justify-content: end;
+    }
+}
